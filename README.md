@@ -1,4 +1,4 @@
-# cuigames
+# Basic CUI GAMES IN PYTHON
 Basic games based on CUI in python
 
 1. HANGMAN
